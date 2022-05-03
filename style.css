@@ -1,0 +1,26 @@
+section {
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    width: 1366px;
+}
+
+
+.row {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.column4 {
+    width: 25%;
+    padding: 5%;
+    margin: 5%;
+    background-color: aqua;
+}
+
+.column6 {
+    width: 50%;
+}
